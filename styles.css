@@ -464,7 +464,7 @@ textarea.input { padding: 0.8rem 1.2rem; min-height: 140px; border-radius: .5rem
     .details-title { font-size: var(--normal-font-size); }
     .portfolio-popup-close { top: .5rem;  }
 }
-
+/* Hi guys*/
 @media screen and (max-width: 576px) {
     .nav-toggle { right: initial; left: 1.5rem; }
     .home { background-image: none; height: initial; align-items: initial; padding: 7rem 0 2rem; }

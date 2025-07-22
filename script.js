@@ -87,7 +87,7 @@ modalCloses.forEach((modalClose) => {
 })
 
 //Swiper Testimonial
-
+//nothing is here
 let swiper = new Swiper(".testimonials-container", {
     spaceBetween: 24,
     loop: true,
