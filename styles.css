@@ -2,7 +2,6 @@
 
 :root {
     --hue-color: 242;
-
     --skin-color: hsl(342, 92%, 46%);
     --mirage-color: hsl(210, 10%, 23%);
     --title-color: hsl(var(--hue-color), 8%, 95%);
