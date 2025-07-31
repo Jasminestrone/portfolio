@@ -94,7 +94,8 @@ button { cursor: pointer; }
 /* Main - Home */
 
 .main { margin-left: 100px; }
-.home { background: url('https://i.postimg.cc/DZxD1xGL/home-bg.jpg'); background-size: cover; background-position: center center; height: 100vh; }
+.home { background-image: url("assets/Placeholder.png"); background-size: 30%; background-position: right center; height: 100vh; background-repeat: no-repeat;
+ }
 .home-container { position: relative; height: 100%; align-items: center; }
 .home-social { position: absolute; top: 1.8rem; left: 0; display: flex; align-items: center; column-gap: 3.5rem; }
 .home-social-follow { font-weight: var(--font-medium); position: relative; }
@@ -393,4 +394,8 @@ button { cursor: pointer; }
 
 #specialdumbass2.work-img {
     margin-bottom: 3.5rem;
+}
+
+#specialdumbass3.work-img {
+    margin-bottom: 4rem;
 }
